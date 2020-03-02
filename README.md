@@ -1,1 +1,3 @@
-# webapi
+# webapi endpoints:
+
+#//Teachers
