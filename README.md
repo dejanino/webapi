@@ -1,16 +1,16 @@
 # webapi endpoints:
 
-//Teachers <br />
+# //Teachers <br />
 http://pushadmin.dropmind.com/api/teachers
 
-//Students
+# //Students <br />
 http://pushadmin.dropmind.com/api/students
 
-//Courses
+# //Courses <br />
 http://pushadmin.dropmind.com/api/courses
 
-//Reviews
+# //Reviews <br />
 http://pushadmin.dropmind.com/api/reviews
 
-//Slider
+# //Slider <br />
 http://pushadmin.dropmind.com/api/slider
