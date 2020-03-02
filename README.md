@@ -1,6 +1,6 @@
 # webapi endpoints:
 
-//Teachers /n
+//Teachers \n
 http://pushadmin.dropmind.com/api/teachers
 
 //Students
